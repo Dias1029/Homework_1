@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthController : MonoBehaviour
+public class Health : MonoBehaviour
 {
     [SerializeField] private Slider _healthBar;
     [SerializeField] private float _health;

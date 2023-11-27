@@ -546,7 +546,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2141235495}
-        m_TargetAssemblyTypeName: HealthController, Assembly-CSharp
+        m_TargetAssemblyTypeName: Health, Assembly-CSharp
         m_MethodName: MakeDamage
         m_Mode: 4
         m_Arguments:
@@ -2244,7 +2244,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _healthBar: {fileID: 1582800008}
   _health: 100
-  _fillSpeed: 1
+  _fillSpeed: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
